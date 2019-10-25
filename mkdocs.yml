@@ -1,7 +1,5 @@
 pages:
   - Home: 'index.md'
-  - Getting Started: 'getting_started.md'
-  - Configuration: 'configuration.md'
 
 site_name: SAMI ETS Lab Documentation
 repo_url: https://github.com/sami-ets/Documentation

@@ -21,13 +21,6 @@ Shape Analysis for Medical Imaging (SAMI) Lab at ÉTS.
 
 ## References
 
-#### 
-
-
-#### 
-
-
-#### 
 
 ## Project architecture
 

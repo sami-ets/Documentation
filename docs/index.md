@@ -17,6 +17,8 @@ Here are a few points you should read to get started in the lab.
 - [Technological Services](general/services.md)
 - [Working in the lab](general/working_in_the_lab.md)
 
+## Internship
+
 ## Libraries
 - Kerosene
 - SAMITorch

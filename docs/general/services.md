@@ -10,6 +10,10 @@ The lab has a machine dedicated to Visdom. Your code can log directly into this 
 
 You code must log into a specific Visdom environment (generally your name) so your experiment will be traceable.
 
+The `visdom` virtual environment is located under `/mnt/data/visdom`. 
+
+For login credentials, ask [Pierre-Luc Delisle](mailto:pierre-luc.delisle.1@ens.etsmtl.ca).
+
 
 # Department servers 
 

@@ -75,7 +75,10 @@ For Git tools, you will need to install Xcode command line tools.
 
 After downloading and installing Xcode from the App Store, install the Xcode command line tools. Run:
 
+```
 $ xcode-select --install
+```
+
 It'll prompt you to install the command line tools. Follow the instructions and you'll have Xcode and Xcode command line
 tools both installed.
 
@@ -268,3 +271,4 @@ You can also manually add a bash completion file into `/usr/local/etc/bash_compl
 ### Other terminal apps
 
 Several other terminal apps exist for macOS. Among these, [hyper](http://hyper.is) and [iTerm2]() are very popular.
+You might want to have a look on these. 

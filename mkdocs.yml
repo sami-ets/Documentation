@@ -12,7 +12,8 @@ nav:
       - Services: 'general/services.md'
       - Work method: 'general/work_method.md'
       - The lab: 'general/the_lab.md'
-
+      - Internship and new members: 'internship/index.md'
+        
 site_name: SAMI ETS Lab Documentation
 repo_url: https://github.com/sami-ets/Documentation
 

@@ -139,5 +139,5 @@ is something we would like to transpose in everyone's code.
 While the libs kind of force you to write clean code, we know things can go wrong. 
 
 If you are having trouble with your personal code, start writing unit tests in order to test key components of your
-algorithm/code/input pipeline. It's very likely that if you are asking for questions, you will be answered by 
-"Where are your tests?". Be prepared !
+algorithm/code/input pipeline. It's very likely that if you are asking other members for questions, you will be answered 
+by "Where are your tests?". Be prepared !

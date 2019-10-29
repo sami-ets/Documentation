@@ -18,13 +18,13 @@ Here are a few points you should read to get started in the lab.
 
 
 ### General
-- [Work method](general/work_method.md)
-- [Technological Services](general/services.md)
+- [Proposed working method](general/work_method.md)
+- [Technological services](general/services.md)
 - [The lab](general/the_lab.md)
 
 
-### Internship
-
+### Internship and new members
+- [Getting started](internship/index.md)
 
 ### Libraries
 

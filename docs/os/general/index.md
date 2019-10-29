@@ -4,15 +4,15 @@ A development machine should be secured against threats as well as any other mac
  machine). Therefore, depending on your operating system, you should consider:
 
 - choosing a known, secure Linux distribution with secure system settings
-- installing a virus scanner/protection (if you are running Microsoft Windows)
 - installing and configuring a firewall
 - setup disk encryption on your workstations
 
 
 ## Linux distribution
 
-Chose a known and recognized Linux distribution. ÉTS supports Linux Ubuntu. Choosing Ubuntu is ususally the best 
-choice you can do when being in the lab.
+Chose a known and recognized Linux distribution. ÉTS officially supports [Linux Ubuntu](http://ubuntu.com) so all
+lab machines are running this operating system.
+
 
 ## Firewall
 
@@ -41,6 +41,7 @@ data from patients.
 It is strongly recommended you activate disk encryption on your workstations, especially on a mobile computer. If you 
 travel a lot and take your notebook with you (including all your source codes), you might consider travelling with disk
 encryption enabled.
+
 
 ### macOS
 To activate disk encryption on macOS:

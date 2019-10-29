@@ -1,6 +1,7 @@
 # macOS Catalina (10.15)
 
-## Basics
+Various system configuration and reminders for using macOS as a development machine. 
+
 - [System Preferences](system_preferences.md)    
 - [Xcode](xcode.md)
 - [Sourcetree and Git](sourcetree.md)

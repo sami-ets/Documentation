@@ -1,8 +1,10 @@
-#Bash Completion
+# Terminal tools
+
+## Bash Completion
 
 Bash completion is a bash function that allows you to auto complete commands or arguments by typing partially commands or arguments, then pressing the [Tab] key. This will help you when writing the bash command in terminal.
 
-##Installation
+### Installation
 
 ```
 $ brew install bash-completion
@@ -28,7 +30,7 @@ Restart your zsh session:
 $ source ~/.zshrc
 ```
 
-##Usage
+### Usage
 
 Once you've done this, you can use bash completion by pressing the tab key twice after a command. For example:
 
@@ -55,3 +57,8 @@ $ brew install docker-completion
 ```
 
 You can also manually add a bash completion file into `/usr/local/etc/bash_completion.d`
+
+
+## Other terminal apps
+
+Several other terminal apps exist for macOS. Among these, [hyper](http://hyper.is) and [iTerm2]() are very popular.

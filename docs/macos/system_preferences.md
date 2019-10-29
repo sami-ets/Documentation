@@ -6,22 +6,24 @@ The first thing to do is update the macOS operating system. To do that go: Apple
 
 If this is a new computer there are a couple tweaks you could make to the System Preferences. These settings are all optional, consider them suggestions. Always choose the setting that suits you the best..
 
-###Users & Groups
+
+### Users & Groups
 
 - Disable Guest User.
 - Set up Password, Apple ID, Picture, etc.
 
-###Trackpad
+
+### Trackpad
 
 Enable all desired options, such as `Secondary click`.
 
 
-###Dock
+### Dock
 
 Turn on `Magnification` by checking the box. Adjust Dock size as desired.
 
 
-###Bluetooth
+### Bluetooth
 
 Check `Show Bluetooth in menu bar`.
 
@@ -31,7 +33,7 @@ Check `Show Bluetooth in menu bar`.
 Check `Show volume in menu bar`.
 
 
-###Finder
+### Finder
 
 Click *Finder* in the Menu bar at the top -> Preferences.
  
@@ -42,7 +44,7 @@ Click *Finder* in the Menu bar at the top -> Preferences.
     - Check all desired items in the sidebar.
  
  
-###Menu bar
+### Menu bar
 
 - Battery
     - Click on the battery -> Show percentage.
@@ -53,7 +55,7 @@ Click *Finder* in the Menu bar at the top -> Preferences.
     - Date options : Check Show the day of the week and Show date.
 
 
-###Accounts
+### Accounts
 
 Add an iCloud account and sync Calendar, Find my Mac, Contacts etc.
 

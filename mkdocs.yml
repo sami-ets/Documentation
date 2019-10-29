@@ -1,5 +1,5 @@
 pages:
-  - Home: 'index.md'
+  - Home: 'security.md'
 
 site_name: SAMI ETS Lab Documentation
 repo_url: https://github.com/sami-ets/Documentation

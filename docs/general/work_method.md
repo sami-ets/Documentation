@@ -9,7 +9,7 @@ developer platform along with Linux.
 If you want to work on macOS, your code should be only on your Mac and synchronized automatically with your desired 
 deployment server or your personal Lab workstation. With PyCharm, this is very easy to achieve. This way, you will
 never be out of sync and your code will never be overridden by obsolete versions of your code. Follow the [JetBrains
-initial configuration steps](../apps/jetbrains.md) to get started.
+initial configuration steps](../apps/index.md#jetbrains) to get started.
 
 This method is also a good way to get a couple of hundreds of Megabytes of more of VRAM on your personal workstation. By
 using your personal laptop as desktop environment, you can disable the GNOME desktop environment which free up video 

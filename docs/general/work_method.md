@@ -125,10 +125,10 @@ If you find a bug or have an idea for an improvement, please first have a look a
 
 ## Containers
 
-We observed that many research projects now ships with a `Dockerfile` or Singularity build file for automatically 
+We observed that many research projects now ship with a `Dockerfile` or Singularity build file for automatically 
 building the required libraries and run your experiments inside a container. This is a way to make experiments 
 reproducible between researchers and to accelerate research. Your project, in its final stage, should have these files, 
-especially if your code has been part of a publication.
+especially if your code is used in for a publication.
 
 
 ## Clean code and tests

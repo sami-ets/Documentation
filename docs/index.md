@@ -1,4 +1,4 @@
-# SAMI Lab (ETS A-3413)
+# SAMI Lab
 
 Welcome to the Shape Analysis in Medical Imaging (SAMI) Lab ! 
 
@@ -6,20 +6,21 @@ Here are a few points you should read to get started in the lab.
 
 ## Getting started
 
-### Operating system and hardware
-- [macOS general configuration](macos/index.md)
-- [OS-agnostic general considerations](os/security.md)
-- [Hardware compatibility](os/hardware.md)
+### Operating systems and hardware
+- [macOS](os/macos/index.md)
+- [Linux](os/linux/index.md)
+- [OS-agnostic general considerations](os/general/index.md)
+- [Hardware](os/general/index.md#hardware)
 
 
 ### Apps
-- [Apps used in the lab](apps/index.md)
+- [Apps](apps/index.md)
 
 
 ### General
 - [Work method](general/work_method.md)
 - [Technological Services](general/services.md)
-- [Working in the lab](general/working_in_the_lab.md)
+- [The lab](general/the_lab.md)
 
 
 ### Internship

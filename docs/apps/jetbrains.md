@@ -11,6 +11,9 @@ are free to use. You have to subscribe as student on the [student section](https
 JetBrains' website. It can take a couple of days before being granted to use the Professional Edition for free. Your
 student status must be renewed every year.
 
+You can also use the ETS licensing server. Simply select the option of License Server and enter the following URL
+during installation: `http://jetbrains-license.logti.etsmtl.ca:8080` 
+
 
 ## Installation
 

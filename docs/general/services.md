@@ -2,7 +2,7 @@
 
 The lab has a machine dedicated to Visdom. Your code can log directly into this server. 
 
-#### Table 1 : Visdom log serve IP address.
+#### Visdom log server IP address.
 
 | IP            | Port      |
 |---------------|-----------|
@@ -12,14 +12,14 @@ You code must log into a specific Visdom environment (generally your name) so yo
 
 The `visdom` virtual environment is located under `/mnt/data/visdom`. 
 
-For login credentials, ask [Pierre-Luc Delisle](mailto:pierre-luc.delisle.1@ens.etsmtl.ca).
+For login credentials, please contact [Pierre-Luc Delisle](mailto:pierre-luc.delisle.1@ens.etsmtl.ca).
 
 
 # Department servers 
 
 The ETS LOG/TI department has several deployment server on which you can develop, test and run your GPU-accelerated code.
 
-#### Table 2 : Available development and deployment servers with NVIDIA GPUs.
+#### Available development and deployment servers with NVIDIA GPUs.
  
 | Hostname	| IP address        | Hostname                          | GPUs                                          | CUDA Version   |
 |-----------|-------------------|-----------------------------------|-----------------------------------------------|----------------|

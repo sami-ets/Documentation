@@ -1,6 +1,18 @@
 pages:
   - Home: 'index.md'
 
+nav:
+  - Home: 'index.md'
+  - OSes:
+      - macOS: 'os/macos/index.md'
+      - Linux: 'os/linux/index.md'
+      - All: 'os/general/index.md'
+  - Apps: 'apps/index.md'
+  - General:
+      - Services: 'general/services.md'
+      - Work method: 'general/work_method.md'
+      - The lab: 'general/the_lab.md'
+
 site_name: SAMI ETS Lab Documentation
 repo_url: https://github.com/sami-ets/Documentation
 

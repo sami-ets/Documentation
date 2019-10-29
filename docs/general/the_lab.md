@@ -1,7 +1,11 @@
-# Working in the lab
+# The lab
 
-The SAMI Lab (ETS main building A-3413) is a small lab in which we want to have friendly relationship with each other
-members. 
+
+## Physical emplacement
+
+Address                                             | Building          | Local number |
+|---------------------------------------------------|-------------------|--------------|
+1100 Notre-Dame St W, Montreal, Quebec, H3C 1K3     | A                 | 3413         |
 
 
 ## Coffee
@@ -16,7 +20,8 @@ Costco) or bring your own coffee pods.
 
 We have a printer available to lab's member. You only have to bring your blank sheets of paper in order to print. 
 
-#### Table 1 : Printer IP address
+
+#### Printer IP address
 
 | IP address        |
 |-------------------|

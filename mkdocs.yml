@@ -1,14 +1,16 @@
 nav:
   - Home: 'index.md'
-  - OSes and hardware:
+  - Software and hardware:
       - macOS: 'os/macos/index.md'
       - Linux: 'os/linux/index.md'
-      - All: 'os/general/index.md'
+      - OS-agnostic general considerations: 'os/general/index.md'
+      - Apps: 'apps/index.md'
+      - Hardware: 'os/general/index.md#hardware'
+        -
   - General:
       - The lab: 'general/the_lab.md'
       - Internship and new members: 'internship/index.md'
       - Work method: 'general/work_method.md'
-      - Apps: 'apps/index.md'
       - Technological services: 'general/technological_services.md'
       - External services: 'general/external_services.md'
 

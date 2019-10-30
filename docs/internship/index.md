@@ -59,6 +59,10 @@ unit and/or integration tests when supplying your code. Writing these tests will
 very beginning of your work, which could potentially save you an enormous amount of time all along your 
 internship/master/Ph.D degree.
 
+Also, always keep in mind you must work on something useful. Always ask you the questions "Is what I'm doing useful for
+my personal research project?" or "Is what I'm doing useful for the lab?". If you answer no to these two questions, you
+need to adjust yourself. 
+
 
 ## It will take time
 

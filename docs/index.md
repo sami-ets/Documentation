@@ -22,11 +22,6 @@ Here are a few points you should read to get started in the lab.
 - [External services](general/external_services.md)
 
 
-
-## Internship and new members
-
-
-
 ## Libraries
 
 - Kerosene

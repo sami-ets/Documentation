@@ -1,43 +1,42 @@
-# macOS Catalina (10.15)
+# System Preferences
 
-Various system configuration and reminders for using macOS as a development machine. 
+Various system configuration and reminders for using macOS as a development machine.
 
-## System Preferences
 
-### First Time Setup
+## First Time Setup
 
 The first thing to do is update the macOS operating system. To do that go: Apple menu () > About This Mac > Software Update.
 
 If this is a new computer there are a couple tweaks you could make to the System Preferences. These settings are all optional, consider them suggestions. Always choose the setting that suits you the best..
 
 
-#### Users & Groups
+### Users & Groups
 
 - Disable Guest User.
 - Set up Password, Apple ID, Picture, etc.
 
 
-#### Trackpad
+### Trackpad
 
 Enable all desired options, such as `Secondary click`.
 
 
-#### Dock
+### Dock
 
 Turn on `Magnification` by checking the box. Adjust Dock size as desired.
 
 
-#### Bluetooth
+### Bluetooth
 
 Check `Show Bluetooth in menu bar`.
 
 
-#### Sound
+### Sound
 
 Check `Show volume in menu bar`.
 
 
-#### Finder
+### Finder
 
 Click *Finder* in the Menu bar at the top -> Preferences.
  
@@ -48,7 +47,7 @@ Click *Finder* in the Menu bar at the top -> Preferences.
     - Check all desired items in the sidebar.
  
  
-#### Menu bar
+### Menu bar
 
 - Battery
     - Click on the battery -> Show percentage.
@@ -59,12 +58,12 @@ Click *Finder* in the Menu bar at the top -> Preferences.
     - Date options : Check Show the day of the week and Show date.
 
 
-#### Accounts
+### Accounts
 
 Add an iCloud account and sync Calendar, Find my Mac, Contacts etc.
 
 
-## Xcode
+# Xcode
 
 [Xcode](https://developer.apple.com/xcode/) is an integrated development environment for macOS containing a suite of
 software development tools developed by Apple for developing software for macOS, iOS, watchOS and tvOS.
@@ -83,18 +82,18 @@ It'll prompt you to install the command line tools. Follow the instructions and 
 tools both installed.
 
 
-## XQuartz
+# XQuartz
 
 XQuartz is Apple Inc.'s version of the X server, a component of the X Window System for macOS. It might be useful to run
 X Window applications remotely from servers. Download and install from [XQuartz](http://xquartz.macosforge.org/landing/).
 
-## Sourcetree
+# Sourcetree
 
 [Sourcetree app](https://www.sourcetreeapp.com) is an Atlassian Git GUI tool to interact visually with your Git repositories.
 
 It's the best tool for managing Git repositories, have a look on what you do and changed in you code, and is fully-featured. You can download it for free [here](https://www.sourcetreeapp.com)
 
-## Git
+# Git
 
 To test that Git is installed properly, run:
 
@@ -123,7 +122,7 @@ Generate a new token, and paste it into Sourcetree initial's configuration when 
 The instructions below are referenced from the official [documentation](https://help.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh).
 
 
-### Check for existing SSH keys
+## Check for existing SSH keys
 
 First, we need to check for existing SSH keys on your computer. We do this by running:
 
@@ -135,7 +134,7 @@ $ ls -al ~/.ssh
 Check the directory listing to see if you have files named either id_rsa.pub or id_dsa.pub. If you don't have either of those files then read on, otherwise skip the next section.
 
 
-### Generate a new SSH key
+## Generate a new SSH key
 
 If you don't have an SSH key you need to generate one. To do that you need to run the commands below, and make sure to substitute the placeholder with your email. The default settings are preferred, so when you're asked to "enter a file in which to save the key,"" just press Enter to continue.
 
@@ -145,7 +144,7 @@ $ ssh-keygen -t rsa -C "john.doe@apple.com"
 ```
 
 
-### Add your SSH key to the ssh-agent
+## Add your SSH key to the ssh-agent
 
 Run the following commands to add your SSH key to the ssh-agent.
 
@@ -167,7 +166,7 @@ $ ssh-add -K ~/.ssh/id_rsa
 ```
 
 
-### Adding a new SSH key to your GitHub account
+## Adding a new SSH key to your GitHub account
 
 The last step is to let GitHub know about your SSH key. Run this command to copy your key to your clipboard:
 
@@ -178,13 +177,13 @@ $ pbcopy < ~/.ssh/id_rsa.pub
 Then go to GitHub and [input your new SSH key](https://github.com/settings/ssh/new). Paste your key in the "Key" textbox and pick a name that represents the computer you're currently using.
 
 
-## Homebrew
+# Homebrew
 
 [Homebrew](https://brew.sh) calls itself "The missing package manager for macOS" and is an essential tool for any 
 developer.
 
 
-### Installation
+## Installation
 
 Before you can run Homebrew you need to have the Command Line Tools for Xcode installed. It include compilers and other tools that will allow you to build things from source, and if you are missing this it's available through the App Store > Updates. You can also install it from the terminal by running the following:
 
@@ -207,13 +206,13 @@ $ brew doctor
 If everything is good, you should see no warnings, and a message that you are "Ready to brew!".
 
 
-## Terminal tools
+# Terminal tools
 
-### Bash Completion
+## Bash Completion
 
 Bash completion is a bash function that allows you to auto complete commands or arguments by typing partially commands or arguments, then pressing the [Tab] key. This will help you when writing the bash command in terminal.
 
-#### Installation
+### Installation
 
 ```
 $ brew install bash-completion
@@ -239,7 +238,7 @@ Restart your zsh session:
 $ source ~/.zshrc
 ```
 
-#### Usage
+### Usage
 
 Once you've done this, you can use bash completion by pressing the tab key twice after a command. For example:
 
@@ -268,7 +267,7 @@ $ brew install docker-completion
 You can also manually add a bash completion file into `/usr/local/etc/bash_completion.d`
 
 
-### Other terminal apps
+## Other terminal apps
 
 Several other terminal apps exist for macOS. Among these, [hyper](http://hyper.is) and [iTerm2]() are very popular.
 You might want to have a look on these. 

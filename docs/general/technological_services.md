@@ -1,4 +1,4 @@
-# Technological services
+# Visdom
 
 The lab has a machine dedicated to Visdom. Your code can log directly into this server. 
 

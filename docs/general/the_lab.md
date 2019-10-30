@@ -1,6 +1,3 @@
-# The lab
-
-
 ## Physical emplacement
 
 Address                                             | Building          | Local number |

@@ -1,6 +1,4 @@
-# Work method
-
-## Computer and workstation
+# Computer and workstation
 A good work habits is to have your code at only one place. Since a Mac cannot run any CUDA-enabled code, it's not a
 good platform to chose to run and debug your deep learning code since it will likely use GPU acceleration and NVIDIA's
 APEX library. But, macOS stays one of the best desktop environment for programming and working, making it an excellent
@@ -22,7 +20,7 @@ than one external monitor, while MacBook Pro can have a maximum of two external 
 setup possible. See your computer manufacturer specifications. 
 
 
-## Virtualenv
+# Virtualenv
 [Virtualenv](https://virtualenv.pypa.io/en/latest/) is a tool that lets you create an isolated Python environment for
 your project. It creates an environment that has its own installation directories, that doesn’t share dependencies 
 with other `virtualenv` environments (and optionally doesn’t access the globally installed dependencies either). 
@@ -77,7 +75,7 @@ Important: Remember to add `venv` to your project's `.gitignore` file so you don
 code.
 
 
-## Git
+# Git
 
 Every source code repository should include a README.md file describing how to contribute and work with your repository.
 
@@ -123,7 +121,7 @@ If you find a bug or have an idea for an improvement, please first have a look a
 ```
 
 
-## Containers
+# Containers
 
 We observed that many research projects now ship with a `Dockerfile` or Singularity build file for automatically 
 building the required libraries and run your experiments inside a container. This is a way to make experiments 
@@ -131,7 +129,7 @@ reproducible between researchers and to accelerate research. Your project, in it
 especially if your code is used in for a publication.
 
 
-## Clean code and tests
+# Clean code and tests
 
 SAMI Lab has two libraries in active development in which we emphasize on clean coding, good practices, and tests. This 
 is something we would like to transpose in everyone's code. 

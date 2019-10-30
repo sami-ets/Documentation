@@ -1,5 +1,3 @@
-# Intership and new members
-
 If you are a new intern into the lab, you should consider following these general guidelines. These are based on 
 previous internship experience and supervision.   
 

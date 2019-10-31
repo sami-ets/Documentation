@@ -25,4 +25,7 @@ Here are a few points you should read to get started in the lab.
 ## Libraries
 
 - Kerosene
+    - [Source code](https://github.com/banctilrobitaille/kerosene)
+    - [Documentation](https://kerosene.readthedocs.io/en/latest/)
 - SAMITorch
+    - [Source code](https://github.com/sami-ets/SAMITorch)

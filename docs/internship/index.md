@@ -37,7 +37,7 @@ results sooner.
 
 Don't always focus only on getting your work published. By doing so, you will likely fail at 
 understanding and mastering basic machine learning concepts and software engineering skills. Maybe you will code fast, 
-but you will also make your work practically unusable by other members of the lab and possibly do a lot of mistakes. 
+but you will also make your work practically unusable by other members of the lab and you will possibly do a lot of mistakes. 
 This isolate the lab member with its project, rendering it impossible to troubleshoot and debug by others. This may lead
 to take a lot of time for another member to take over your work. This render other members inefficient at completing work
 when you are leaving the lab, especially if your work is near of being published.

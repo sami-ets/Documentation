@@ -21,7 +21,7 @@ Please ask any current member of the lab to get an invitation to access Slack.
 We use [TravisCI](https://travis-ci.org) for continuous development and integration. For Github educational accounts, 
 there is no build limit. You can use this service for any of your personal repository. 
 
-Since SAMI-ETS is a Github organisation, repository in this organisation have a build limit. 
+Since SAMI-ETS is a Github organisation, repositories in this organisation have a build limit. 
 
 
 # Overleaf

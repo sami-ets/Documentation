@@ -35,14 +35,15 @@ results sooner.
 
 ## Don't skip steps and do the right things
 
-One of the previous lab interns skipped a lot of steps, focusing only on getting the work published and failing at 
-understanding and mastering basic machine learning concepts and software engineering skills. This rendered her work
-practically unusable by other members of the lab, isolating herself with her project, rendering it impossible to 
-troubleshoot and debug by others. It took a lot of time for another members to take over her work. This could have
-been avoid if using our lab's software stack and mastering basic programming skills. This render other members 
-inefficient at completing work when you are leaving the lab, especially if your work is near of being publishing.
-Coding with the developed libraries (Kerosene and SAMITorch) known by other members creates a coding and developing 
-standard in the lab, helping every other member understanding quickly your code and debug way more easily in case you 
+Don't always focus only on getting your work published. By doing so, you will likely fail at 
+understanding and mastering basic machine learning concepts and software engineering skills. Maybe you will code fast, 
+but you will also make your work practically unusable by other members of the lab and possibly do a lot of mistakes. 
+This isolate the lab member with its project, rendering it impossible to troubleshoot and debug by others. This may lead
+to take a lot of time for another member to take over your work. This render other members inefficient at completing work
+when you are leaving the lab, especially if your work is near of being publishing.
+This could be avoided if you use our lab's software stack and mastering basic programming skills. 
+Coding with the developed libraries (Kerosene and SAMITorch) known by other members creates a coding standard in the lab,
+helping every other member understanding quickly your code and debug way more easily in case you 
 need help. We also eventually want these libraries be released and used in other research labs of ETS and this begins
 by using and promoting the libs.
 

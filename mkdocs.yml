@@ -5,7 +5,7 @@ nav:
       - Linux: 'os/linux/index.md'
       - OS-agnostic general considerations: 'os/general/index.md'
       - Apps: 'apps/index.md'
-      - Hardware: 'os/general/index.md#hardware'
+      - Hardware: 'os/general/index.md'
   - General:
       - The lab: 'general/the_lab.md'
       - Internship and new members: 'internship/index.md'

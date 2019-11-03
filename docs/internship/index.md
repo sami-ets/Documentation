@@ -40,7 +40,7 @@ understanding and mastering basic machine learning concepts and software enginee
 but you will also make your work practically unusable by other members of the lab and possibly do a lot of mistakes. 
 This isolate the lab member with its project, rendering it impossible to troubleshoot and debug by others. This may lead
 to take a lot of time for another member to take over your work. This render other members inefficient at completing work
-when you are leaving the lab, especially if your work is near of being publishing.
+when you are leaving the lab, especially if your work is near of being published.
 This could be avoided if you use our lab's software stack and mastering basic programming skills. 
 Coding with the developed libraries (Kerosene and SAMITorch) known by other members creates a coding standard in the lab,
 helping every other member understanding quickly your code and debug way more easily in case you 

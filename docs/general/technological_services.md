@@ -23,7 +23,7 @@ The ETS LOG/TI department has several deployment server on which you can develop
  
 | Hostname	| IP address        | Hostname                          | GPUs                                          | CUDA Version   |
 |-----------|-------------------|-----------------------------------|-----------------------------------------------|----------------|
-| Koios     | 10.178.8.81	    | koios.logti.etsmtl.ca 	        | 2x NVIDIA Titan XP + 1x NVIDIA Titan X	    | 8.0            |
+| Koios     | 10.178.8.81	    | koios.logti.etsmtl.ca 	        | 2x NVIDIA Titan XP + 1x NVIDIA Titan X	    | 10.1            |
 | Phoebe	| 10.178.8.145	    | phoebe.logti.etsmtl.ca 	        | 2x NVIDIA RTX 2080 Ti	                        | 10.1           |
 | Minerva	| 10.178.8.84	    | minerva.logti.etsmtl.ca 	        | 2x NVIDIA RTX 2080 Ti	                        | 10.1           |
 | GPU1	    | 10.178.8.86	    | logti-srv-gpu-1.logti.etsmtl.ca   | 3x NVIDIA GTX 1080	                        | 10.1           |

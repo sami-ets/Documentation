@@ -13,9 +13,9 @@ You code must log into a specific Visdom environment (generally your name) so yo
 The `visdom` virtual environment is located under `/home/visdom/venv`. 
 
 To start visdom:
->$ tmux
->$ source /home/visdom/venv/bin/activate
->$ visdom
+>$ tmux  
+>$ source /home/visdom/venv/bin/activate  
+>$ visdom  
 
 For login credentials, please contact [Pierre-Luc Delisle](mailto:pierre-luc.delisle.1@ens.etsmtl.ca).
 

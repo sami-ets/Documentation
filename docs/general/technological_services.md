@@ -6,7 +6,7 @@ The lab has a machine dedicated to Visdom. Your code can log directly into this 
 
 | IP            | Port      |
 |---------------|-----------|
-| 10.180.113.21 | 8097      |
+| 10.180.113.44 | 8097      |
 
 You code must log into a specific Visdom environment (generally your name) so your experiment will be traceable.
 

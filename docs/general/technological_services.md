@@ -24,6 +24,8 @@ For login credentials, please contact [Pierre-Luc Delisle](mailto:pierre-luc.del
 
 The ETS LOG/TI department has several deployment server on which you can develop, test and run your GPU-accelerated code.
 
+If your algorithm doesn't take more than 8 GB of VRAM, please use the GPU in your personal development machine instead of these servers. Students who requires higher VRAM capacity for their algorithm will be prioritized.
+
 #### Available development and deployment servers with NVIDIA GPUs.
  
 | Hostname	| IP address        | Hostname                          | GPUs                                          | CUDA Version   |

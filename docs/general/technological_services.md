@@ -34,7 +34,7 @@ The ETS LOG/TI department has several deployment server on which you can develop
 | GPU1	    | 10.178.8.86	    | logti-srv-gpu-1.logti.etsmtl.ca   | 3x NVIDIA GTX 1080	                        | 10.1           |
 | GPU2      | 10.178.8.87	    | logti-srv-gpu-2.logti.etsmtl.ca	| 1x NVIDIA GTX 1080 + 2x NVIDIA RTX 2080 Ti	| 10.1           |
 
-When using these server for running full experiments, please keep an eye on it ! Failed experiments or processes not
+When using these servers for running full experiments, please keep an eye on them ! Failed experiments or processes not
 successfully terminated still use RAM and VRAM on GPUs, preventing others of using the resources. Kill your process as
 soon as you notice something is wrong or if your code thrown an uncaught exception which prevent the process to 
 terminate cleanly.

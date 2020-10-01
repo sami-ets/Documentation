@@ -30,11 +30,9 @@ If your algorithm doesn't take more than 8 GB of VRAM, please use the GPU in you
  
 | Hostname	| IP address        | Hostname                          | GPUs                                          | CUDA Version   |
 |-----------|-------------------|-----------------------------------|-----------------------------------------------|----------------|
-| Koios     | 10.178.8.81	    | koios.logti.etsmtl.ca 	        | 2x NVIDIA Titan XP + 1x NVIDIA Titan X	    | 10.1            |
-| Phoebe	| 10.178.8.145	    | phoebe.logti.etsmtl.ca 	        | 2x NVIDIA RTX 2080 Ti	                        | 10.1           |
-| Minerva	| 10.178.8.84	    | minerva.logti.etsmtl.ca 	        | 2x NVIDIA RTX 2080 Ti	                        | 10.1           |
-| GPU1	    | 10.178.8.86	    | logti-srv-gpu-1.logti.etsmtl.ca   | 3x NVIDIA GTX 1080	                        | 10.1           |
-| GPU2      | 10.178.8.87	    | logti-srv-gpu-2.logti.etsmtl.ca	| 1x NVIDIA GTX 1080 + 2x NVIDIA RTX 2080 Ti	| 10.1           |
+| Koios     | 10.178.8.81	    | koios.logti.etsmtl.ca 	        | 2x NVIDIA Titan XP + 1x NVIDIA 1080 TI	    | 11.0            |
+| Phoebe	| 10.178.8.145	    | phoebe.logti.etsmtl.ca 	        | 2x NVIDIA RTX 2080 Ti	                        | 11.0           |
+| Minerva	| 10.178.8.84	    | minerva.logti.etsmtl.ca 	        | 2x NVIDIA RTX 2080 Ti	                        | 11.0           |
 
 When using these servers for running full experiments, please keep an eye on them ! Failed experiments or processes not
 successfully terminated still use RAM and VRAM on GPUs, preventing others of using the resources. Kill your process as
